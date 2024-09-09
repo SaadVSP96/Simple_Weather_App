@@ -1,5 +1,3 @@
-// 84d1138f01d480ac1609b523496b736e
-
 const date = document.getElementById("date");
 const city = document.getElementById("city");
 const temp = document.getElementById("temp");
